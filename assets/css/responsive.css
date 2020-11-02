@@ -1,0 +1,21 @@
+@media screen and (max-width: 60.625em) {
+	.header_area, .sidebar { float: none; max-width: 100%; padding: 20px; text-align: center; }
+	.sidebar > nav {float: none;margin: 6em 0.5em 0px;}
+	.myprofile { width: 80%; top: 10%; right: 10%; }
+	.header_area h1 { font-size: 3.5em; }
+	.header_area h2 {font-size: 0.7em;}
+	.profile_pic { top: 30%; }
+	.social_media effects { font-size: 2em; }
+	.about_me {display:none;}
+  }
+  @media screen and (max-width: 53.125em) {
+	.myprofile-input { padding: 0px 25% 0px 10px; }
+	.myprofile.open .myprofile-input { font-size: 1.3em; }
+	.dummy-column { float: none; width: auto; padding: 0px 0px 2em; }
+	.dummy-column:nth-child(2) { margin: 0px; }
+	.myprofile.open .myprofile-submit { transform: translate3d(0px, -50%, 0px) scale3d(0.5, 0.5, 1); }
+	.header_area h1 {font-size: 2.1em;line-height: 1em;}
+	.profile_pic { top: 36%; }
+	.about_me {display:none;}
+  }
+  
