@@ -15,11 +15,11 @@
    <a href="https://www.instagram.com/imamuddinwp/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/imamuddinwp/">
   </a> 
-   <a href="https://imamuddinwp.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://imamuddinwp.medium.com/">
-  </a>
    <a href="https://bn.quora.com/profile/Imam-Uddin-Wp" target="_blank">
     <img src="https://img.shields.io/badge/-Quora-1ca0f1?style=flat&labelColor=1ca0f1&logo=quora&logoColor=white&link=https://bn.quora.com/profile/Imam-Uddin-Wp">
+  </a>
+    <a href="https://imamuddinwp.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-1877F2?style=flat&labelColor=1877F2&logo=medium&logoColor=white&link=https://imamuddinwp.medium.com/">
   </a>
   <a href="https://mix.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Mix-1877F2?style=flat&labelColor=1877F2&logo=mix&logoColor=white&link=https://mix.com/imamuddinwp">
