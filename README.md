@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/imamuddinwp/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/imamuddinwp/">
   </a>
+   <a href="https://www.instagram.com/imamuddinwp/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/imamuddinwp/">
+  </a> 
    <a href="https://facebook.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
   </a>
