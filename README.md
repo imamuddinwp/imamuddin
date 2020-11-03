@@ -5,7 +5,7 @@
 
 <p>
 Hey there, it's me! Imam Uddin, imamuddinwp;a passionate Front-End Web Developer & SEO Expert. I always loves to play with codes, blogging,  Social Media, Search Engine Optimization, Local SEO, CMS (WordPress, WiX), Front-End Development andand especially Digital Marketing. I also love to keep me up-to-date with new technologies & innovative creations.
-To review my online presence, find me in a popular search engine by searching with the keyword 🕵 '<b>imamuddinwp</br>' or '<br>Imam Uddin</br>'. 
+To review my online presence, find me in a popular search engine by searching with the keyword 🕵 '<b>imamuddinwp</b>' or '<b>Imam Uddin</b>'. 
 </p>
 
 ![imamuddin imamuddinwp](/imam-uddin-imamuddinwp.jpg)
