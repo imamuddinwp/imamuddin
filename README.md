@@ -1,6 +1,12 @@
 # <h1><a href="https://imamuddinwp.github.io/imamuddin/">Imam Uddin | Portfolio Template </a></h1>
 # <h2>Front-End Developer | SEO Expert </h2>
-Hey there; it's me! Imam Uddin, imamuddinwp; Front-End Developer, SEO Expert & Professonal Freelancer.  
+
+![imamuddin imamuddinwp](/imamuddin-responsive.jpg)
+
+<p>
+Hey there, it's me! Imam Uddin, imamuddinwp;a passionate Front-End Web Developer & SEO Expert. I always loves to play with codes, blogging,  Social Media, Search Engine Optimization, Local SEO, CMS (WordPress, WiX), Front-End Development andand especially Digital Marketing. I also love to keep me up-to-date with new technologies & innovative creations.
+To review my online presence, find me in a popular search engine by searching with the keyword 🕵 '<b>imamuddinwp</br>' or '<br>Imam Uddin</br>'. 
+</p>
 
 ![imamuddin imamuddinwp](/imam-uddin-imamuddinwp.jpg)
 
@@ -22,13 +28,11 @@ qualifications, education, training, and experiences. It provides insight into y
 ethic.</p>
 <p>But here I will show my portfolio on web-based.</p>
 
-![imamuddin imamuddinwp](/imam-uddin-responsive-checking.jpg)
-
 <h3>Why responsive design is important?</h3>
 <p>Responsive web design is mobile-friendly, it helps increase visibility on search engines, which
 in turn can mean more visitors to your website.</p>
 
-![imamuddin imamuddinwp](/imamuddin-responsive.jpg)
+![imamuddin imamuddinwp](/imam-uddin-responsive-checking.jpg)
 
 <h3>What is SEO and why it is important?</h3>
 <p>Search Engine Optimization (SEO) refers to the method used to increase a website’s position on
