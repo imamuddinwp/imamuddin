@@ -1,5 +1,26 @@
 # <h1><a href="https://imamuddinwp.github.io/imamuddin/">Imam Uddin | Portfolio Template </a></h1>
 # <h2>Front-End Developer | SEO Expert </h2>
+<p align="center">
+  <a href="https://facebook.com/imamuddinwp" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
+  </a>
+  
+  <a href="https://twitter.com/imamuddinwp" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imamuddinwp">
+  </a>
+  <a href="https://behance.net/imamuddinwp" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/imamuddinwp">
+  </>
+  <a href="mailto:imamuddin.web@gmail.com?subject=Hey there; it's me! Imam Uddin, imamuddinwp!" target="_blank">
+    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:imamuddin.web@gmail.com">
+  </a>
+  <a href="https://github.com/imamuddinwp" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/imamuddinwp?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/imamuddinwp" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=imamuddinwp&label=Views&color=brightgreen&style=flat" alt="imamuddinwp" />
+  </a>
+</p
 
 ![imamuddin imamuddinwp](/imamuddin-responsive.jpg)
 
