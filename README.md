@@ -16,9 +16,7 @@
   <a href="https://behance.net/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/imamuddinwp">
   </>
-  <a href="mailto:imamuddin.web@gmail.com?subject=Hey there; it's me! Imam Uddin, imamuddinwp!" target="_blank">
-    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:imamuddin.web@gmail.com">
-  </a>
+ 
   <a href="https://github.com/imamuddinwp" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/imamuddinwp?label=Github&style=flat">
   </a>
