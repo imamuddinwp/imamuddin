@@ -2,8 +2,6 @@
 # <h2>Front-End Developer | SEO Expert </h2>
 Hey there; it's me! Imam Uddin, imamuddinwp; Front-End Developer, SEO Expert & Professonal Freelancer.  
 
-
-
 ![imamuddin imamuddinwp](/imam-uddin-imamuddinwp.jpg)
 
 <h3>Why a portfolio is important?</h3>
@@ -11,7 +9,6 @@ Hey there; it's me! Imam Uddin, imamuddinwp; Front-End Developer, SEO Expert & P
 Portfolios are a great way to demonstrate the competencies you would list on a resume or talk about in
 an interview — they allow you to show and not just tell. During a job search, the portfolio showcases
 your work to potential employers. It presents evidence of your relevant skills and abilities.</p>
-
 
 ![imamuddin imamuddinwp](/imam-uddin.jpg)
 
@@ -54,38 +51,38 @@ Reporting and analysis.</p>
 
 ![imamuddin imamuddinwp](/imam-uddin-seo-check.jpg)
 
-Tags:
-“advantages of portfolio”
-“importance of portfolio in finance”
-“characteristics of portfolio”
-“teaching portfolio pdf”
-“portfolio artifacts”
-“educational leadership portfolio examples”
-“career portfolio software”
-“do i need a digital portfolio”
-“professional portfolio for promotion”
-“what do i need for a portfolio”
-“purpose of career portfolio”
-“portfolio as assessment method”
-“portfolio questions for students”
-“types of portfolio”
-“benefits of having a portfolio”
-“why are portfolios important for students”
-“what is a portfolio for students”
-“portfolio sample”
-“portfolio sample pdf”
-“how to write a portfolio”
-“working portfolio”
-“how to make a portfolio”
-“professional portfolio definition”
-“professional portfolio examples pdf”
-“professional portfolio template”
-“professional art portfolio”
-“professional eportfolio”
-“how to make a professional portfolio”
-“importance of portfolio management pdf”
-“importance of investment portfolio”
-“why work in portfolio management”
-“project portfolio management quora”
-“importance of portfolio management slideshare”
-“why is project portfolio management important”
+<p>Tags:<br>
+advantages of portfolio, <br>
+importance of portfolio in finance, <br>
+characteristics of portfolio, <br>
+teaching portfolio pdf, <br>
+portfolio artifacts, <br>
+educational leadership portfolio examples, <br>
+career portfolio software, <br>
+do i need a digital portfolio, <br>
+professional portfolio for promotion, <br>
+what do i need for a portfolio, <br>
+purpose of career portfolio, <br>
+portfolio as assessment method, <br>
+portfolio questions for students, <br>
+types of portfolio, <br>
+benefits of having a portfolio, <br>
+why are portfolios important for students, <br>
+what is a portfolio for students, <br>
+portfolio sample, <br>
+portfolio sample pdf, <br>
+how to write a portfolio, <br>
+working portfolio, <br>
+how to make a portfolio, <br>
+professional portfolio definition, <br>
+professional portfolio examples pdf, <br>
+professional portfolio template, <br>
+professional art portfolio, <br>
+professional eportfolio, <br>
+how to make a professional portfolio, <br>
+importance of portfolio management pdf, <br>
+importance of investment portfolio, <br>
+why work in portfolio management, <br>
+project portfolio management quora, <br>
+importance of portfolio management slideshare, <br>
+why is project portfolio management important. </p>
