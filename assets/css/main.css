@@ -1,9 +1,15 @@
-/*-----------------------------------------------------
-/*!
- * ProudLy Powered By: Muhammad Imam Uddin.
- * Visit my github profile: https://github.com/imamuddinwp/
- */
-----------------------------------------------------------*/
+/*
+     _ +------------------------------------------------------------+_
+    /o)|     Project    ::   Imam Uddin | Front-End Developer	    |(o\
+   / / |     Author     ::   Imam Uddin            		    | \ \
+  ( (_ |  _  Author URL ::   https://github.com/imamuddinwp     _   | _) )
+ ((\ \)+-/o)----------------------------------------------------(o\-+(/ /))
+ (\\\ \_/ /                                     	         \ \_/ ///)
+  \      /                 	 __                    		  \      /
+   \____/                 	|  |                               \____/
+   |    | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++|    |
+*******************************************************************************/
+
 *, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
 .clearfix:before, .clearfix:after { content: ''; display: table; }
 .clearfix:after { clear: both; }
