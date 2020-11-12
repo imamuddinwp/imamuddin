@@ -66,6 +66,7 @@ ethic.</p>
 <p>But here I will show my portfolio on web-based.</p>
 
 <h3>Why responsive design is important?</h3>
+![imamuddin imamuddinwp](/mobile-friendly-website-checking.jpg)
 <p>Responsive web design is mobile-friendly, it helps increase visibility on search engines, which
 in turn can mean more visitors to your website.</p>
 
